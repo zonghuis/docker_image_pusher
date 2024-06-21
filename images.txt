@@ -1,1 +1,1 @@
- --platform=kicbase/ nginx
+ --platform=kicbase nginx
