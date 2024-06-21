@@ -1,1 +1,2 @@
- --platform=kicbase nginx
+nginx
+kicbase/stable:v0.0.44
