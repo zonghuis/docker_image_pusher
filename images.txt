@@ -1,2 +1,1 @@
-nginx
-redis
+kicbase/stable:v0.0.44
