@@ -1,1 +1,1 @@
-kubernetesui/metrics-scraper:v1.0.8
+nginx:1.14.2
