@@ -1,1 +1,1 @@
-coredns/coredns:1.11.1
+kicbase/stable:v0.0.43
