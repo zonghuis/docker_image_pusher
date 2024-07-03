@@ -1,1 +1,1 @@
-eipwork/kuboard:v3.5.2.7
+nacos/nacos-server:v2.3.2
