@@ -1,1 +1,1 @@
-rancher/rancher-agent:v2.8.5
+rancher/shell:v0.1.24
