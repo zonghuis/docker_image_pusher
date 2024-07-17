@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2024-03-15T01-07-19Z
+docker pull jenkins/jenkins:jdk17
