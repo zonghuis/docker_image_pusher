@@ -1,1 +1,1 @@
-kiwigrid/k8s-sidecar:1.27.5
+jenkins/inbound-agent:3256.v88a_f6e922152-1
