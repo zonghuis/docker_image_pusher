@@ -1,1 +1,1 @@
-debian:stable
+docker pull bitnami/kubectl:1.28.9
