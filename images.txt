@@ -1,1 +1,1 @@
-bitnami/kubectl:1.28.9
+rancher/shell:v0.1.25
