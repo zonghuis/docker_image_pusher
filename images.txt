@@ -1,1 +1,1 @@
-sonicorg/sonic-server-base
+sonicorg/sonic-server-base:v1.0.0
