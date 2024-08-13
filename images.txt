@@ -1,6 +1,1 @@
-sonicorg/sonic-server-eureka:v2.2.1
-sonicorg/sonic-server-controller:v2.2.1 
-sonicorg/sonic-server-folder:v2.2.1
-sonicorg/sonic-server-gateway:v2.2.1
-sonicorg/sonic-client-web:v2.2.1
-sonicorg/sonic-agent-linux:v2.2.1
+sonicorg/sonic-server-base
