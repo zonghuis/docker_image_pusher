@@ -1,1 +1,2 @@
-sonicorg/sonic-agent-linux-base:v1.0.1
+sonicorg/sonic-agent-linux:v2.2.1
+sonicorg/sonic-server-controller:v2.2.1
